@@ -5,4 +5,4 @@ npm start<br/><br/>
 
 For Docker:<br/>
 docker compose up<br/><br/>
-front-end: https://github.com/hrithik-631/REST_API_Tarpaulin
+front-end: https://github.com/hrithik-631/frontend_for_REST_API_Tarpaulin
